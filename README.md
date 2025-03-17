@@ -1,5 +1,5 @@
 # Soy Sabela, Bienvenid@ a mi perfil de Github!<div align="center">
-<img src="Hi.gif" alt="GIF de bienvenida" width="300" style="border: 2px solid #000; box-shadow: 5px 5px 10px rgba(0,0,0,0.3);" />
+<img src="Hi.gif" alt="GIF de bienvenida" width="300"/>
 Soy una apasionada por el desarrollo de software y el diseño web. 
 
 Aquí encontrarás algunos de mis proyectos y colaboraciones.
