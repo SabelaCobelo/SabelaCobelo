@@ -1,11 +1,11 @@
-# Soy Sabela, Bienvenid@ a mi perfil de Github!
+# Bienvenid@ a mi perfil de Github!
 Apasionada por el desarrollo de software y el diseño web. 
 
 Aquí encontrarás algunos de mis proyectos y colaboraciones.
 
 ## Sobre mí 🧑‍💻
 
-- 🔭 Actualmente estoy finalizando mi formación en Desarrollo de Aplicaciones Web.
+- 🔭 Actualmente finalizando mi formación en Desarrollo de Aplicaciones Web.
 - 📫 Cómo contactarme: [sabela.cobelo7@gmail.com](mailto:sabela.cobelo7@gmail.com).
 
 ## Tecnologías y Herramientas 🛠️
