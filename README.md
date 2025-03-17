@@ -1,6 +1,5 @@
 # Soy Sabela, Bienvenid@ a mi perfil de Github!
-
-Soy una apasionada por el desarrollo de software y el diseño web. 
+Apasionada por el desarrollo de software y el diseño web. 
 
 Aquí encontrarás algunos de mis proyectos y colaboraciones.
 
@@ -16,8 +15,9 @@ Aquí encontrarás algunos de mis proyectos y colaboraciones.
 - **Frameworks y Librerías:** ⚛️ React
 - **Bases de Datos:** 🐬 MySQL, 🍃 MongoDB, 🔥 Firebase
 - **Herramientas de Desarrollo:** 🎨 Figma, 🐙 Git, 🖥️ VS Code, 📋 Trello, 🗂️ Jira
+
   
-![](quote.png)
+<img src="dev-nutrition.svg" alt="developer nutrition facts" width="40%" />
 
 ## Proyectos Destacados 🚀
 
@@ -26,8 +26,9 @@ Aquí hay algunos de los proyectos en los que he trabajado:
 1. **[Natural Glow - ecommerce](https://github.com/SabelaCobelo/Natural_Glow.git)** 🛒 - Plataforma de comercio electrónico para productos de belleza. [Ver demo](https://naturalglow-demo.com)
 2. **[Pawtropía - Refugio de animales](https://github.com/SabelaCobelo/PawTopia.git)** 🐾 - Aplicación para la gestión de refugios de animales. [Ver demo](https://pawtopia-demo.com)
 3. **[Pixel&Wine - Podcast](https://github.com/SabelaCobelo/Podcast.git)** 🎙️ - Sitio web para un podcast sobre diseño y tecnología. [Ver demo](https://pixelwine-demo.com)
+   
 
-4. ![Grasshopper](https://ghchart.rshah.org/SabelaCobelo)
+   ![Grasshopper](https://ghchart.rshah.org/SabelaCobelo)
 
 ## Estadísticas de GitHub 📊
 
@@ -45,3 +46,4 @@ Si deseas conocer más sobre mi experiencia y habilidades, puedes descargar mi c
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. 😊
 
 > "El software es una combinación de arte y lógica." - Anónimo
+> "
