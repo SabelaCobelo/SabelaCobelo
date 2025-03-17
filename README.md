@@ -27,9 +27,9 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 
 Aquí hay algunos de los proyectos en los que he trabajado:
 
-1. **[Natural Glow](https://github.com/SabelaCobelo/Natural_Glow.git)** - Breve descripción del proyecto.
-2. **[Nombre del Proyecto](enlace al repositorio)** - Breve descripción del proyecto.
-3. **[Nombre del Proyecto](enlace al repositorio)** - Breve descripción del proyecto.
+1. **[Natural Glow - ecommerce](https://github.com/SabelaCobelo/Natural_Glow.git)** - Breve descripción del proyecto.
+2. **[Pawtropía - Refugio animales](https://github.com/SabelaCobelo/PawTopia.git)** - Breve descripción del proyecto.
+3. **[Pixel&Wine - Podcast](https://github.com/SabelaCobelo/Podcast.git)** - Breve descripción del proyecto.
 
 ## Estadísticas de GitHub 📊
 
