@@ -23,10 +23,9 @@ Aquí encontrarás algunos de mis proyectos y colaboraciones.
 
 Aquí hay algunos de los proyectos en los que he trabajado:
 
-1. **[Natural Glow - ecommerce](https://github.com/SabelaCobelo/Natural_Glow.git)** 🛒 - Plataforma de comercio electrónico para productos de belleza. [Ver demo](https://naturalglow-demo.com)
-2. **[Pawtropía - Refugio de animales](https://github.com/SabelaCobelo/PawTopia.git)** 🐾 - Aplicación para la gestión de refugios de animales. [Ver demo](https://pawtopia-demo.com)
-3. **[Pixel&Wine - Podcast](https://github.com/SabelaCobelo/Podcast.git)** 🎙️ - Sitio web para un podcast sobre diseño y tecnología. [Ver demo](https://pixelwine-demo.com)
-   
+1. **[Natural Glow - ecommerce](https://github.com/SabelaCobelo/Natural_Glow.git)** 🛒 - Plataforma de comercio electrónico para productos de belleza.
+2. **[Pawtropía - Refugio de animales](https://github.com/SabelaCobelo/PawTopia.git)** 🐾 - Aplicación para la gestión de refugios de animales.
+3. **[Pixel&Wine - Podcast](https://github.com/SabelaCobelo/Podcast.git)** 🎙️ - Sitio web para un podcast sobre diseño y tecnología.
 
    ![Grasshopper](https://ghchart.rshah.org/SabelaCobelo)
 
@@ -39,7 +38,6 @@ Aquí hay algunos de los proyectos en los que he trabajado:
 Si deseas conocer más sobre mi experiencia y habilidades, puedes descargar mi currículum en PDF:
 
 - [Descargar mi currículum](CV.pdf)
-
 
 - [LinkedIn](https://www.linkedin.com/in/sabelacl/)
 
