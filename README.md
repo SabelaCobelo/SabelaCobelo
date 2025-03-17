@@ -35,9 +35,12 @@ Aquí hay algunos de los proyectos en los que he trabajado:
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SabelaCobelo&layout=compact&theme=radical)
 
-## Contacto 📧
+## CV 📄
 
-Si deseas contactarme, no dudes en enviarme un correo electrónico a [sabela.cobelo7@gmail.com](mailto:sabela.cobelo7@gmail.com) o seguirme en mis redes sociales:
+Si deseas conocer más sobre mi experiencia y habilidades, puedes descargar mi currículum en PDF:
+
+- [Descargar mi currículum](CV.pdf)
+
 
 - [LinkedIn](https://www.linkedin.com/in/sabelacl/)
 
