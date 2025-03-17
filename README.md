@@ -1,7 +1,6 @@
 # Soy Sabela, Bienvenid@ a mi perfil de Github!
 ![Hi](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNnbXV1OWlmcmZpMnBvZTA1cWo2dDhmbTZnNmpwMnpmbWg2MTM2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif)
 
-
 Soy una apasionada por el desarrollo de software y el diseño web. 
 Aquí encontrarás algunos de mis proyectos y colaboraciones.
 
@@ -18,8 +17,7 @@ Aquí encontrarás algunos de mis proyectos y colaboraciones.
 - **Bases de Datos:** 🐬 MySQL, 🍃 MongoDB, 🔥 Firebase
 - **Herramientas de Desarrollo:** 🎨 Figma, 🐙 Git, 🖥️ VS Code, 📋 Trello, 🗂️ Jira
   
-
-![Animación de bienvenida](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9zczNtMGtiM3Z6dnVlaXB4cmQxMTl5dXdrcXBtMzRxZnJyNHJtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1k889fiqiZV19HO2sx/giphy.gif)
+![](quote.png)
 
 ## Proyectos Destacados 🚀
 
