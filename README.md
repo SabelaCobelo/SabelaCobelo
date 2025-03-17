@@ -4,24 +4,19 @@ Bienvenido/a a mi perfil de GitHub. Soy un/a apasionado/a por [tu área de inter
 
 ## Sobre mí 🧑‍💻
 
-- 🔭 Actualmente estoy trabajando en [proyecto actual o área de enfoque].
-- 🌱 Estoy aprendiendo [tecnologías o habilidades que estás aprendiendo].
-- 👯 Estoy buscando colaborar en [tipo de proyectos o áreas de interés].
-- 🤔 Estoy buscando ayuda con [algo en lo que necesitas apoyo].
-- 💬 Pregúntame sobre [temas sobre los que te gusta hablar].
-- 📫 Cómo contactarme: [tu correo electrónico o redes sociales].
-- 😄 Pronombres: [tus pronombres, por ejemplo: él/ella/elle].
-- ⚡ Dato curioso: [algo interesante o divertido sobre ti].
+- 🔭 Actualmente estoy Finalizando mi formación en Desarrollo de Aplicaciones Web.
+- 👯 Estoy buscando colaborar en UX/UI.
+- 📫 Cómo contactarme: [sabela.cobelo7@gmail.com].
 
 ## Tecnologías y Herramientas 🛠️
 
 Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 
-- **Lenguajes de Programación:** [lista de lenguajes, por ejemplo: Python, JavaScript, Java, etc.]
-- **Frameworks y Librerías:** [lista de frameworks, por ejemplo: React, Django, Flask, etc.]
-- **Bases de Datos:** [lista de bases de datos, por ejemplo: MySQL, PostgreSQL, MongoDB, etc.]
-- **Herramientas de Desarrollo:** [lista de herramientas, por ejemplo: Git, Docker, VS Code, etc.]
-- **Otros:** [cualquier otra tecnología o herramienta relevante].
+- **Lenguajes de Programación:** [JavaScript, Java,]
+- **Frameworks y Librerías:** [React]
+- **Bases de Datos:** [MySQL, MongoDB, Firebase]
+- **Herramientas de Desarrollo:** [Figma, Git, VS Code, Trello, Jira]
+- **Otros:** [].
 
 ## Proyectos Destacados 🚀
 
