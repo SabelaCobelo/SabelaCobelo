@@ -33,7 +33,7 @@ Aquí hay algunos de los proyectos en los que he trabajado:
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SabelaCobelo&layout=compact&theme=radical)
 
-## CV 📄
+## Mi CV 📄
 
 Si deseas conocer más sobre mi experiencia y habilidades, puedes descargar mi currículum en PDF:
 
