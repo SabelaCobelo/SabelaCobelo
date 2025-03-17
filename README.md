@@ -54,7 +54,6 @@ Aquí hay algunos de los proyectos en los que he trabajado:
 2. **[Pawtropía - Refugio de animales](https://github.com/SabelaCobelo/PawTopia.git)** 🐾 - Aplicación para la gestión de refugios de animales.
 3. **[Pixel&Wine - Podcast](https://github.com/SabelaCobelo/Podcast.git)** 🎙️ - Sitio web para un podcast sobre diseño y tecnología.
 
-  ![Grasshopper](https://ghchart.rshah.org/SabelaCobelo?bg_color=000000&color=ffffff)
 
 ## Estadísticas de GitHub 📊
 
