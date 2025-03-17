@@ -29,8 +29,6 @@ Aquí hay algunos de los proyectos en los que he trabajado:
 
 ## Estadísticas de GitHub 📊
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SabelaCobelo&show_icons=true&theme=radical)
-
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SabelaCobelo&layout=compact&theme=radical)
 
 ## Mi CV 📄
