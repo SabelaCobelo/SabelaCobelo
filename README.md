@@ -1,6 +1,8 @@
 # ¡Hola! 👋 Soy Sabela
 
-Bienvenido/a a mi perfil de GitHub. Soy una apasionada por el desarrollo de software y el diseño web. Aquí encontrarás algunos de mis proyectos y colaboraciones.
+Bienvenid@ a mi perfil de GitHub. 
+Soy una apasionada por el desarrollo de software y el diseño web. 
+Aquí encontrarás algunos de mis proyectos y colaboraciones.
 
 ## Sobre mí 🧑‍💻
 
@@ -12,18 +14,18 @@ Bienvenido/a a mi perfil de GitHub. Soy una apasionada por el desarrollo de soft
 
 Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 
-- **Lenguajes de Programación:** JavaScript, Java
-- **Frameworks y Librerías:** React
-- **Bases de Datos:** MySQL, MongoDB, Firebase
-- **Herramientas de Desarrollo:** Figma, Git, VS Code, Trello, Jira
+- **Lenguajes de Programación:** 🟨 JavaScript, ☕ Java
+- **Frameworks y Librerías:** ⚛️ React
+- **Bases de Datos:** 🐬 MySQL, 🍃 MongoDB, 🔥 Firebase
+- **Herramientas de Desarrollo:** 🎨 Figma, 🐙 Git, 🖥️ VS Code, 📋 Trello, 🗂️ Jira
 
 ## Proyectos Destacados 🚀
 
 Aquí hay algunos de los proyectos en los que he trabajado:
 
-1. **[Natural Glow - ecommerce](https://github.com/SabelaCobelo/Natural_Glow.git)** - Plataforma de comercio electrónico para productos de belleza.
-2. **[Pawtropía - Refugio de animales](https://github.com/SabelaCobelo/PawTopia.git)** - Aplicación para la gestión de refugios de animales.
-3. **[Pixel&Wine - Podcast](https://github.com/SabelaCobelo/Podcast.git)** - Sitio web para un podcast sobre diseño y tecnología.
+1. **[Natural Glow - ecommerce](https://github.com/SabelaCobelo/Natural_Glow.git)** 🛒 - Plataforma de comercio electrónico para productos de belleza. [Ver demo](https://naturalglow-demo.com)
+2. **[Pawtropía - Refugio de animales](https://github.com/SabelaCobelo/PawTopia.git)** 🐾 - Aplicación para la gestión de refugios de animales. [Ver demo](https://pawtopia-demo.com)
+3. **[Pixel&Wine - Podcast](https://github.com/SabelaCobelo/Podcast.git)** 🎙️ - Sitio web para un podcast sobre diseño y tecnología. [Ver demo](https://pixelwine-demo.com)
 
 ## Estadísticas de GitHub 📊
 
@@ -38,3 +40,5 @@ Si deseas contactarme, no dudes en enviarme un correo electrónico a [sabela.cob
 - [LinkedIn](https://www.linkedin.com/in/sabelacl/)
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. 😊
+
+> "El software es una combinación de arte y lógica." - Anónimo
