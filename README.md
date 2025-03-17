@@ -70,4 +70,3 @@ Si deseas conocer más sobre mi experiencia y habilidades, puedes descargar mi c
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. 😊
 
 > "El software es una combinación de arte y lógica." - Anónimo
-> "
