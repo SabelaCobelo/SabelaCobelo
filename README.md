@@ -1,7 +1,7 @@
-# Soy Sabela, Bienvenid@ a mi perfil de Github!
-![Hi](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNnbXV1OWlmcmZpMnBvZTA1cWo2dDhmbTZnNmpwMnpmbWg2MTM2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif)
-
+# Soy Sabela, Bienvenid@ a mi perfil de Github!<div align="center">
+<img src="/Hi.gif" alt="GIF de bienvenida">
 Soy una apasionada por el desarrollo de software y el diseño web. 
+
 Aquí encontrarás algunos de mis proyectos y colaboraciones.
 
 ## Sobre mí 🧑‍💻
@@ -27,9 +27,11 @@ Aquí hay algunos de los proyectos en los que he trabajado:
 2. **[Pawtropía - Refugio de animales](https://github.com/SabelaCobelo/PawTopia.git)** 🐾 - Aplicación para la gestión de refugios de animales. [Ver demo](https://pawtopia-demo.com)
 3. **[Pixel&Wine - Podcast](https://github.com/SabelaCobelo/Podcast.git)** 🎙️ - Sitio web para un podcast sobre diseño y tecnología. [Ver demo](https://pixelwine-demo.com)
 
+4. ![Grasshopper](https://ghchart.rshah.org/SabelaCobelo)
+
 ## Estadísticas de GitHub 📊
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SabelaCobelo&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Mi CV 📄
 
