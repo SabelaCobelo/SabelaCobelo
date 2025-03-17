@@ -12,12 +12,12 @@ Aquí encontrarás algunos de mis proyectos y colaboraciones.
 
 ## Tecnologías y Herramientas 🛠️
 
-Aquí están algunas de las tecnologías y herramientas con las que trabajo:
-
 - **Lenguajes de Programación:** 🟨 JavaScript, ☕ Java
 - **Frameworks y Librerías:** ⚛️ React
 - **Bases de Datos:** 🐬 MySQL, 🍃 MongoDB, 🔥 Firebase
 - **Herramientas de Desarrollo:** 🎨 Figma, 🐙 Git, 🖥️ VS Code, 📋 Trello, 🗂️ Jira
+
+![Animación de bienvenida](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9zczNtMGtiM3Z6dnVlaXB4cmQxMTl5dXdrcXBtMzRxZnJyNHJtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1k889fiqiZV19HO2sx/giphy.gif)
 
 ## Proyectos Destacados 🚀
 
