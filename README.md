@@ -17,7 +17,6 @@ Aquí encontrarás algunos de mis proyectos y colaboraciones.
 
 ### **Frameworks y Librerías**
 - ⚛️ **React**: Desarrollo de interfaces de usuario interactivas.
-- 🅰️ **Angular**: Desarrollo de aplicaciones web escalables.
 - 🟦 **Node.js**: Desarrollo backend con JavaScript.
 - 🎨 **Tailwind CSS**: Framework CSS para diseño rápido.
 - 🅱️ **Bootstrap**: Framework CSS para diseño responsive.
