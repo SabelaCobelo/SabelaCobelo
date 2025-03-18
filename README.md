@@ -47,12 +47,24 @@ Aquí encontrarás algunos de mis proyectos y colaboraciones.
 
 ## Proyectos Destacados 🚀
 
-Aquí hay algunos de los proyectos en los que he trabajado:
+Aquí, algunos de los proyectos en los que he trabajado:
 
-1. **[Natural Glow - ecommerce](https://github.com/SabelaCobelo/Natural_Glow.git)** 🛒 - Plataforma de comercio electrónico para productos de belleza.
-2. **[Pawtropía - Refugio de animales](https://github.com/SabelaCobelo/PawTopia.git)** 🐾 - Aplicación para la gestión de refugios de animales.
-3. **[Pixel&Wine - Podcast](https://github.com/SabelaCobelo/Podcast.git)** 🎙️ - Sitio web para un podcast sobre diseño y tecnología.
-
+<p align="center">
+  <a href="https://github.com/SabelaCobelo/Natural_Glow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SabelaCobelo&repo=Natural_Glow&border_color=37ad43&bg_color=0D1117&title_color=fff&text_color=8B949E&icon_color=fff" alt="Natural Glow Repo"/> 
+  </a>
+  <a href="https://github.com/SabelaCobelo/PawTopia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SabelaCobelo&repo=PawTopia&border_color=ba34eb&bg_color=0D1117&title_color=fff&text_color=8B949E&icon_color=fff" alt="PawTopia Repo"/> 
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/SabelaCobelo/Podcast">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SabelaCobelo&repo=Podcast&border_color=ff756e&bg_color=0D1117&title_color=fff&text_color=8B949E&icon_color=fff" alt="Pixel&Wine Repo"/> 
+  </a>
+  <a href="https://github.com/SabelaCobelo/ApagarParaEncender">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SabelaCobelo&repo=ApagarParaEncender&border_color=6ee2ff&bg_color=0D1117&title_color=fff&text_color=8B949E&icon_color=fff" alt="Apagar para encender Repo"/> 
+  </a>
+</p>
 
 ## Estadísticas de GitHub 📊
 
