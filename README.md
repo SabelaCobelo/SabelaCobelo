@@ -33,8 +33,8 @@ Aquí encontrarás algunos de mis proyectos y colaboraciones.
 
 ### **Sistemas Operativos**
 - 🪟 **Windows**: Desarrollo en entornos Windows.
-- 🍏 **macOS**: Desarrollo en entornos macOS.
-- 🐧 **Linux**: Entorno de desarrollo y servidores.
+- 🍏 **macOS**: 
+- 🐧 **Linux**: Entorno de desarrollo.
 
 ### **Otras Tecnologías**
 - 🚀 **Agile**: Metodología ágil para desarrollo de software.
