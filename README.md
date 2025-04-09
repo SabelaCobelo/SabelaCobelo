@@ -1,4 +1,4 @@
-# Bienvenid@ a mi perfil de Github!
+# 🌟Bienvenid@ a mi perfil de Github!🚀
 Apasionada por el desarrollo de software y el diseño web. 
 
 Aquí encontrarás algunos de mis proyectos y colaboraciones.
