@@ -5,7 +5,7 @@ Aquí encontrarás algunos de mis proyectos y colaboraciones.
 
 ## Sobre mí 🧑‍💻
 
-- 🔭 Actualmente finalizando mi formación en Desarrollo de Aplicaciones Web.
+- 🔭 Desarrollo de Aplicaciones Web.
 - 📫 Cómo contactarme: [sabela.cobelo7@gmail.com](mailto:sabela.cobelo7@gmail.com).
 
 ## Tecnologías y Herramientas 🛠️
